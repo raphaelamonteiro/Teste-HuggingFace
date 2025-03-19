@@ -8,6 +8,6 @@ Respondendo a pergunta:
 (venv) PS C:\Users\..\agente-ia> python script.py
 Device set to use cpu
 Resposta: 1789 e teve um grande impacto na Europa
-(venv) PS C:\Users\rapha\agente-ia> deactivate
+(venv) PS C:\Users\..\agente-ia> deactivate
 ```
 
